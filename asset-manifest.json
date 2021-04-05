@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scorekeeper-class/static/css/main.a647b3a3.chunk.css",
+    "main.js": "/scorekeeper-class/static/js/main.f3a43b50.chunk.js",
+    "main.js.map": "/scorekeeper-class/static/js/main.f3a43b50.chunk.js.map",
+    "runtime-main.js": "/scorekeeper-class/static/js/runtime-main.f8419229.js",
+    "runtime-main.js.map": "/scorekeeper-class/static/js/runtime-main.f8419229.js.map",
+    "static/js/2.1624a16b.chunk.js": "/scorekeeper-class/static/js/2.1624a16b.chunk.js",
+    "static/js/2.1624a16b.chunk.js.map": "/scorekeeper-class/static/js/2.1624a16b.chunk.js.map",
+    "static/js/3.17b67789.chunk.js": "/scorekeeper-class/static/js/3.17b67789.chunk.js",
+    "static/js/3.17b67789.chunk.js.map": "/scorekeeper-class/static/js/3.17b67789.chunk.js.map",
+    "index.html": "/scorekeeper-class/index.html",
+    "static/css/main.a647b3a3.chunk.css.map": "/scorekeeper-class/static/css/main.a647b3a3.chunk.css.map",
+    "static/js/2.1624a16b.chunk.js.LICENSE.txt": "/scorekeeper-class/static/js/2.1624a16b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8419229.js",
+    "static/js/2.1624a16b.chunk.js",
+    "static/css/main.a647b3a3.chunk.css",
+    "static/js/main.f3a43b50.chunk.js"
+  ]
+}
